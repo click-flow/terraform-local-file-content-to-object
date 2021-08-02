@@ -1,11 +1,11 @@
 variable "inline_delimiter" {
-        type = string
-        default = "="
+	type = string
+	default = "="
 }
 variable "filename" {
-        type = string
+	type = string
 }
 variable "newline_delimiter" {
-        type = string
-        default = "\n"
+	type = string
+	default = "\n"
 }
